@@ -16,8 +16,8 @@ else
 fi
 
 
-mca@MCA03:~/mca/Anjel/network$ chmod +x file2.sh
-mca@MCA03:~/mca/Anjel/network$ ./file2.sh
+mca@MCA03:~/mca/kp/network$ chmod +x file2.sh
+mca@MCA03:~/mca/kp/network$ ./file2.sh
 Enter three numbers:
 12 13 14
 Largest number is: 14
